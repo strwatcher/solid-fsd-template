@@ -4,18 +4,19 @@ Template for solid-js projects with effector and Feature-Sliced Design
 # Installation
 
 ## Git only
+`
 mkdir [project name]
 cd [project name]
 
 git clone https://github.com/strwatcher/solid-fsd-template .
 rm -rf .git
 
-pnpm install
+pnpm install`
 
 
 ## Gh cli (need installed gh)
 
-gh repo create [project-name] --[public/private] --clone --template=strwatcher/solid-fsd-template
+`gh repo create [project-name] --[public/private] --clone --template=strwatcher/solid-fsd-template
 
 cd [project-name]
-pnpm install
+pnpm install`
