@@ -6,8 +6,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "vite",
-    "lint": "eslint",
-    "gen": "func() { yo fsd:\"$1\" \"$2\"; }; func"
+    "lint": "eslint"
   },
   "devDependencies": {
     "@babel/core": "^7.20.12",
