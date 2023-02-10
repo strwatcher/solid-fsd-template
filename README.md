@@ -9,6 +9,7 @@ mkdir [project name]
 cd [project name]
 git clone https://github.com/strwatcher/solid-fsd-template .
 rm -rf .git
+git init
 pnpm install
 ```
 
